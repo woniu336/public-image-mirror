@@ -43,6 +43,9 @@ docker.io/bytebase/bytebase
 docker.io/bytelang/kplayer
 docker.io/calciumion/new-api
 docker.io/calico/*
+docker.io/camunda/zeebe
+docker.io/certbot/*
+docker.io/chaosbladeio/chaosblade-box
 docker.io/charlie0129/bupt-net-login
 docker.io/chengshiwen/influx-proxy
 docker.io/chengshiwen/influxdb
@@ -54,6 +57,7 @@ docker.io/clickhouse/*
 docker.io/cloudflare/*
 docker.io/cloudnas/clouddrive2-unstable
 docker.io/cloudnativelabs/kube-router
+docker.io/cloudreve/cloudreve
 docker.io/codercom/code-server
 docker.io/collabora/code
 docker.io/continuumio/miniconda3
@@ -91,6 +95,7 @@ docker.io/emby/*
 docker.io/emqx/*
 docker.io/ensemblorg/ensembl-vep
 docker.io/envoyproxy/*
+docker.io/exadel/compreface-core
 docker.io/eyeblue/tank
 docker.io/f5networks/*
 docker.io/falcosecurity/*
@@ -114,6 +119,7 @@ docker.io/gocd/gocd-server
 docker.io/gogs/gogs
 docker.io/goharbor/*
 docker.io/google/*
+docker.io/goproxy/goproxy
 docker.io/goreleaser/goreleaser
 docker.io/gotenberg/gotenberg
 docker.io/gotify/*
@@ -139,6 +145,7 @@ docker.io/huggingface/*
 docker.io/hugomods/hugo
 docker.io/hyperf/hyperf
 docker.io/hyperledger/*
+docker.io/ibmcom/*
 docker.io/idootop/mi-gpt
 docker.io/infmonkeys/*
 docker.io/instrumentisto/coturn
@@ -157,12 +164,15 @@ docker.io/jenkinsci/*
 docker.io/jetbrains/*
 docker.io/jettech/*
 docker.io/jimmidyson/*
+docker.io/jitsi/*
 docker.io/jlesage/firefox
 docker.io/johngong/calibre-web
 docker.io/juicedata/*
+docker.io/jumpserver/*
 docker.io/justsong/one-api
 docker.io/jxxghp/*
 docker.io/karmada/*
+docker.io/kasmweb/chrome
 docker.io/keelhq/keel
 docker.io/kennethreitz/*
 docker.io/keycloak/keycloak
@@ -353,6 +363,7 @@ docker.io/mattermost/focalboard
 docker.io/maxkeytop/*
 docker.io/menci/archlinuxarm
 docker.io/metabase/*
+docker.io/metacontrollerio/metacontroller
 docker.io/milvusdb/*
 docker.io/mindsdb/mindsdb
 docker.io/minio/*
@@ -374,6 +385,7 @@ docker.io/neuvector/*
 docker.io/nextcloud/all-in-one
 docker.io/nginxinc/*
 docker.io/nocobase/nocobase
+docker.io/nocodb/nocodb
 docker.io/nodered/node-red
 docker.io/nvidia/*
 docker.io/nyanmisaka/jellyfin
@@ -386,16 +398,20 @@ docker.io/ollama/*
 docker.io/onlyoffice/*
 docker.io/openebs/*
 docker.io/openeuler/*
+docker.io/opengrok/docker
 docker.io/openkruise/*
 docker.io/openmetadata/*
 docker.io/openpolicyagent/opa
 docker.io/openresty/openresty
 docker.io/opensearchproject/*
+docker.io/openwhisk/*
 docker.io/openzipkin/*
 docker.io/osixia/*
 docker.io/osrf/*
 docker.io/otel/*
 docker.io/outlinewiki/outline
+docker.io/oven/bun
+docker.io/pandoc/*
 docker.io/percona/*
 docker.io/pgautoupgrade/pgautoupgrade
 docker.io/pgvector/pgvector
@@ -405,6 +421,7 @@ docker.io/plexinc/pms-docker
 docker.io/plugins/docker
 docker.io/pointcloudlibrary/env
 docker.io/portainer/*
+docker.io/postgis/postgis
 docker.io/privoce/vocechat-server
 docker.io/prodrigestivill/postgres-backup-local
 docker.io/projectcontour/contour-authserver
@@ -414,13 +431,14 @@ docker.io/prometheuscommunity/*
 docker.io/provectuslabs/kafka-ui
 docker.io/pytorch/*
 docker.io/qdrant/*
+docker.io/qemux/qemu-docker
 docker.io/qmcgaw/ddns-updater
 docker.io/ramonvc/freegpt-webui
 docker.io/rancher/*
 docker.io/rayproject/*
 docker.io/rclone/*
 docker.io/redash/*
-docker.io/redis/redis-stack-server
+docker.io/redis/*
 docker.io/redislabs/*
 docker.io/redroid/redroid
 docker.io/resmoio/kubernetes-event-exporter
@@ -452,6 +470,7 @@ docker.io/soulter/astrbot
 docker.io/squidfunk/*
 docker.io/starrocks/*
 docker.io/streamnative/*
+docker.io/styletang/rocketmq-console-ng
 docker.io/superng6/qbittorrentee
 docker.io/swaggerapi/*
 docker.io/syncthing/syncthing
@@ -475,6 +494,7 @@ docker.io/traefik/whoami
 docker.io/trinodb/trino
 docker.io/tugraph/*
 docker.io/tunathu/bandersnatch
+docker.io/tusproject/tusd
 docker.io/ubuntu/*
 docker.io/ultralytics/*
 docker.io/vaultwarden/server
@@ -509,6 +529,7 @@ ghcr.io/aquasecurity/**
 ghcr.io/baizeai/**
 ghcr.io/benc-uk/kubeview
 ghcr.io/chaos-mesh/**
+ghcr.io/chaosblade-io/**
 ghcr.io/cirruslabs/flutter
 ghcr.io/cloudtty/cloudshell
 ghcr.io/coder/**
@@ -522,8 +543,10 @@ ghcr.io/gethomepage/homepage
 ghcr.io/goauthentik/**
 ghcr.io/helm/**
 ghcr.io/home-assistant/**
+ghcr.io/huggingface/text-generation-inference
 ghcr.io/hwameistor/**
 ghcr.io/immich-app/**
+ghcr.io/jd-opensource/**
 ghcr.io/jimmidyson/configmap-reload
 ghcr.io/joeferner/redis-commander
 ghcr.io/k8snetworkplumbingwg/**
@@ -536,6 +559,8 @@ ghcr.io/kubean-io/**
 ghcr.io/labring/fastgpt
 ghcr.io/labring/fastgpt-sandbox
 ghcr.io/librespeed/speedtest
+ghcr.io/linuxsuren/api-testing
+ghcr.io/linuxsuren/atest-ext-store-orm
 ghcr.io/maybe-finance/**
 ghcr.io/megacloudcontainer/**
 ghcr.io/mellanox/**
@@ -561,6 +586,7 @@ ghcr.io/suwayomi/tachidesk
 ghcr.io/tangly1024/notionnext
 ghcr.io/timeplus-io/**
 ghcr.io/toeverything/affine-graphql
+ghcr.io/universaloj/**
 ghcr.io/wzshiming/**
 ghcr.io/zalando/**
 ghcr.io/zitadel/**
@@ -605,6 +631,7 @@ quay.io/prometheus/*
 quay.io/prometheuscommunity/*
 quay.io/quarkus/*
 quay.io/sameersbn/squid
+quay.io/skopeo/*
 quay.io/spotahome/*
 quay.io/strimzi/*
 quay.io/submariner/*
